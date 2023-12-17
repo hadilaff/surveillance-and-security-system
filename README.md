@@ -13,7 +13,13 @@ Additionally, there is another feature where the user can access the camera in r
 Hardware:
 - Raspberry pi
 - camera module
-- pir motion sensor  Sorftware:
+- pir motion sensor  
+Sorftware:
 - Flutter
 - Python
 - Firebase
+
+Make Sure That you Install picamera2 and other libraries like firebase_admin...  
+- Connect to raspberry: ssh@raspberrypi.local (or with ipadress)
+- python3 pircam.py (run the code to detect motion, send pictures and notifications to firebase, display notification and picture on the application)
+- python3 live1.py (active live camera)

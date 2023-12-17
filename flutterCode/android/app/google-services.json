@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "127834276317",
+    "firebase_url": "https://my-surveillance-app-default-rtdb.firebaseio.com",
+    "project_id": "my-surveillance-app",
+    "storage_bucket": "my-surveillance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127834276317:android:e619af33b9c115c4797634",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127834276317-a3h15hhqp8fig9jrnc20kb4oqnn1vt0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dqZ0VEj8DiGJyuyPrdjMLkt4bdLx8YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127834276317-a3h15hhqp8fig9jrnc20kb4oqnn1vt0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

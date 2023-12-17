@@ -14,7 +14,7 @@ pir_pin = 7
 GPIO.setup(pir_pin, GPIO.IN)
 
 
-server_api_key = 'AAAAHcOEQd0:APA91bHEzj3KXd31N0lv6AWP3FGMwP-AKGimPE7k7ZbxrwT4F9hogGBu0rdX_i26D8I2_M0sYAknJjKSZ_kCddd7Gk9L6fzOxAdjem_86DylKnbdLwhIH6aPHmOi9YwCIentnJ4HHJG'
+server_api_key = 'enteryourapi'
 
 push_service = FCMNotification(api_key=server_api_key)
 

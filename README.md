@@ -13,8 +13,7 @@ Additionally, there is another feature where the user can access the camera in r
 Hardware:
 - Raspberry pi
 - camera module
-- pir motion sensor  
-Sorftware:
+- pir motion sensor  Sorftware:
 - Flutter
 - Python
 - Firebase

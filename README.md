@@ -21,5 +21,10 @@ Sorftware:
 
 Make Sure That you Install picamera2 and other libraries like firebase_admin...  
 - Connect to raspberry: ssh@raspberrypi.local (or with ipadress)
-- python3 pircam.py (run the code to detect motion, send pictures and notifications to firebase, display notification and picture on the application)
-- python3 live1.py (active live camera)
+- python3 pircam.py (run the code to detect motion, send pictures and notifications to firebase, display notification and picture on the application)  
+  ![Screenshot from 2023-12-17 11-09-43](https://github.com/hadilaff/surveillance-and-security-system/assets/58861613/311f08d2-82ca-4dbe-8380-607bb2e1f368)
+
+- python3 live1.py (turn on live camera)
+
+
+
